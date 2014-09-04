@@ -1,7 +1,7 @@
 Flash-Publish
 =============
 
-Opinionated publish to create published swfs from Flash with this naming structure: client-jobdescription-dimensions.swf
+Opinionated publish to create published swfs from Flash with this naming structure: `client-jobdescription-dimensions.swf`. Works best with files named `client-jobnumber-jobdescription-dimensions.fla`.
 
 
 ## How to Install ##
