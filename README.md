@@ -7,6 +7,7 @@ Opinionated publish to create published swfs from Flash with this naming structu
 ## How to Install ##
 
 * Copy the `publish.jsfl` file to `C:\Users\[USER]\AppData\Local\Adobe\Flash CS6\en_US\Configuration\Commands`
+** Note: you may have to adjust this path based on your version of Flash
 
 ## Usage Guide ##
 
