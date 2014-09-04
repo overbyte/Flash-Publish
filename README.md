@@ -11,4 +11,4 @@ Opinionated publish to create published swfs from Flash with this naming structu
 
 ## Usage Guide ##
 
-* With an fla open in Flash, go to Commands:publish to publish using opinionated settings
+* With an fla open in Flash, go to `Commands:publish` to publish using opinionated settings
